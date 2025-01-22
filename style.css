@@ -25,6 +25,10 @@ p{
 .paragraph {
   width: 300px;
   color: navy;
+  font-family: "Noto Naskh Arabic", serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
 }
 .hello{
   width: 300px;
